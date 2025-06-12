@@ -1,0 +1,40 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 1rem;
+  line-height: 1;
+  font: inherit;
+  vertical-align: baseline;
+}
+body,
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+div {
+  display: block;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  height: 100vh;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+}
